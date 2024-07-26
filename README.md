@@ -8,6 +8,8 @@ Appointment Scheduling: Schedule and manage patient appointments with ease.<br>
 Billing & Invoicing: Automate the billing process and generate invoices for medical services.<br>
 Staff Management: Oversee staff schedules, roles, and performance records.<br>
 Medical Records: Maintain and access comprehensive electronic health records (EHR).<br>
+<br>
+<br>
 Technologies Used<br>
 Java: Core language used for developing the application with robust OOP principles.<br>
 Object-Oriented Programming (OOP): Utilized to create scalable and maintainable code structures.<br>
