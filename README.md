@@ -2,9 +2,6 @@
 Welcome to the Hospital Management System (HMS) project! This system is designed to streamline and enhance the management of various hospital operations, including patient records, appointments, and billing. Built using Java and leveraging key Object-Oriented Programming (OOP) concepts, the system integrates with MySQL for data storage and JDBC for database connectivity.
 <br>
 <br>
-<br>
-<br>
-<br>
 Features<br>
 Patient Management: Efficiently manage patient details, including registration and medical history.<br>
 Appointment Scheduling: Schedule and manage patient appointments with ease.<br>
