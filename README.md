@@ -1,46 +1,46 @@
 # Hospital_Management_System
 Welcome to the Hospital Management System (HMS) project! This system is designed to streamline and enhance the management of various hospital operations, including patient records, appointments, and billing. Built using Java and leveraging key Object-Oriented Programming (OOP) concepts, the system integrates with MySQL for data storage and JDBC for database connectivity.
-
+<br>
 Features
-Patient Management: Efficiently manage patient details, including registration and medical history.
-Appointment Scheduling: Schedule and manage patient appointments with ease.
-Billing & Invoicing: Automate the billing process and generate invoices for medical services.
-Staff Management: Oversee staff schedules, roles, and performance records.
-Medical Records: Maintain and access comprehensive electronic health records (EHR).
-Technologies Used
-Java: Core language used for developing the application with robust OOP principles.
-Object-Oriented Programming (OOP): Utilized to create scalable and maintainable code structures.
-Java Collection Framework: Employed for managing and manipulating groups of objects efficiently.
-MySQL: Relational database management system used for data storage.
-JDBC (Java Database Connectivity): Provides connectivity between Java applications and the MySQL database.
-Getting Started
-To get a local copy up and running, follow these steps:
+Patient Management: Efficiently manage patient details, including registration and medical history.<br>
+Appointment Scheduling: Schedule and manage patient appointments with ease.<br>
+Billing & Invoicing: Automate the billing process and generate invoices for medical services.<br>
+Staff Management: Oversee staff schedules, roles, and performance records.<br>
+Medical Records: Maintain and access comprehensive electronic health records (EHR).<br>
+Technologies Used<br>
+Java: Core language used for developing the application with robust OOP principles.<br>
+Object-Oriented Programming (OOP): Utilized to create scalable and maintainable code structures.<br>
+Java Collection Framework: Employed for managing and manipulating groups of objects efficiently.<br>
+MySQL: Relational database management system used for data storage.<br>
+JDBC (Java Database Connectivity): Provides connectivity between Java applications and the MySQL database.<br>
+Getting Started<br>
+To get a local copy up and running, follow these steps:<br>
 
-Clone the Repository:
+Clone the Repository:<br>
 
-bash
-Copy code
-git clone https://github.com/Vijay-Wagh123/hospital-management-system.git
-Navigate to the Project Directory:
+bash<br>
+Copy code<br>
+git clone https://github.com/Vijay-Wagh123/hospital-management-system.git<br>
+Navigate to the Project Directory:<br>
 
-bash
-Copy code
-cd hospital-management-system
-Setup the Database:
+bash<br>
+Copy code<br>
+cd hospital-management-system<br>
+Setup the Database:<br>
 
-Import the provided SQL scripts to create the necessary tables and relationships in your MySQL database.
-Configure the database connection settings in the db.properties file.
-Build and Run the Project:
+Import the provided SQL scripts to create the necessary tables and relationships in your MySQL database.<br>
+Configure the database connection settings in the db.properties file.<br>
+Build and Run the Project:<br>
 
-Compile the Java code using your preferred IDE or build tool.
-Execute the application to start the server and access the HMS system.
-Usage
-Once the application is up and running, you can access the system through the provided user interface. Follow the on-screen instructions to manage patients, appointments, staff, and more.
+Compile the Java code using your preferred IDE or build tool.<br>
+Execute the application to start the server and access the HMS system.<br>
+Usage<br>
+Once the application is up and running, you can access the system through the provided user interface. Follow the on-screen instructions to manage patients, appointments, staff, and more.<br>
 
 Contributing
-Contributions are welcome! If you would like to help improve the system, please check out the Contributing Guide for guidelines on how to get involved.
+Contributions are welcome! If you would like to help improve the system, please check out the Contributing Guide for guidelines on how to get involved.<br>
 
 
 
-Contact
-For questions or feedback, please reach out to vijuwagh33@gmail.com
+Contact<br>
+For questions or feedback, please reach out to vijuwagh33@gmail.com<br>
