@@ -10,7 +10,7 @@ Staff Management: Oversee staff schedules, roles, and performance records.<br>
 Medical Records: Maintain and access comprehensive electronic health records (EHR).<br>
 <br>
 <br>
-<b>Technologies</b> Used<br>
+<b>Technologies Used </b><br>
 Java: Core language used for developing the application with robust OOP principles.<br>
 Object-Oriented Programming (OOP): Utilized to create scalable and maintainable code structures.<br>
 Java Collection Framework: Employed for managing and manipulating groups of objects efficiently.<br>
